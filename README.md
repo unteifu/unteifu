@@ -8,9 +8,9 @@
 <br />
 
 <div>
-  <h3>technologies i use</h3>
+  <h3>things i use</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,tailwindcss,postgres,redis,aws,vercel,sentry,pnpm,docker,stackoverflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,tailwindcss,express,postgres,redis,aws,gcp,vercel,sentry,pnpm,docker,stackoverflow,vscode,apple,obsidian" />
   </p>
 </div>
 
