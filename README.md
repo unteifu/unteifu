@@ -18,6 +18,7 @@
 
 ### things i've made
 
+- [portfolio](https://unteifu.live): my portfolio, hope you like the 404 page
 - [wAIfu](https://github.com/unteifu/wAIfu): an AI anime girl that uses ChatGPT and ElevenLabs API to generate responses
 
 <div align="right">
